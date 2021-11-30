@@ -3,11 +3,11 @@ Codeplug for Anytone AT-D878UV
 
 Følgende foldere ligger her 
 
-csv-DigitalContactList
+ csv-DigitalContactList
 	contacts_ALL # Alle DMR ID som er delt ut av RadioID - Se dato for når filen er compilert 
 	contacts_Europe # Import fil alle Europeiske DMR ID som er delt ut av RadioID - Se dato for når filen er compilert 
 	
-csv-latest
+ csv-latest
 	Denne folderen inneholder alle import filer.
 	De viktigste er følgende
 	
